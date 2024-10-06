@@ -8,6 +8,6 @@ This repository is a collection of implementations of various numerical methods 
   
 - **Denoising with Singular Value Decomposition (SVD)**: Techniques for reducing noise in data using SVD.
   
-- **Subspace Method**: Implementations of methods for analyzing and working in lower-dimensional subspaces.
+- **Subspace Method for parameter estimation**
 
 - **Constrained Optimization** (Coming Soon): Techniques for optimizing functions with specified constraints.

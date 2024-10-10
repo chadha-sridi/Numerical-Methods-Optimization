@@ -11,3 +11,4 @@ This repository is a collection of implementations of various numerical methods 
 - **Subspace Method for parameter estimation**
 
 - **Constrained Optimization** (Coming Soon): Techniques for optimizing functions with specified constraints.
+- **Stochastic Optimization** (Coming Soon) 

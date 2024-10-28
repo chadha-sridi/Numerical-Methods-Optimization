@@ -1,6 +1,7 @@
 # Numerical Methods in Julia
 
 This repository is a collection of implementations of various numerical methods in Julia programming language. The focus is on providing clear, efficient, and well-documented code in Julia.
+The notebooks in this repository may not render properly on GitHub. For a better viewing experience, please open them in [nbviewer](https://nbviewer.jupyter.org/).
 
 ## Contents
 
